@@ -1,6 +1,5 @@
 # Deepfake Images Detection
 
-
 🛠️ <br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
@@ -43,4 +42,8 @@ Finally **Run** all the cells of the jupyter notebook
 
 ## Project Outlook
 <br>
+
+![Screenshot 2024-10-12 130650](https://github.com/user-attachments/assets/ca23235b-7f41-4908-b138-6a6acbb962d0)
+![Screenshot 2024-10-12 130703](https://github.com/user-attachments/assets/a6ccf8b3-a637-4f48-b1c5-4c1d087e2b3a)
+![Screenshot 2024-10-12 130724](https://github.com/user-attachments/assets/e4df9a53-8c85-4895-8ab1-53e968650f06)
 
