@@ -1,6 +1,6 @@
 # Deepfake Images Detection
 
-🛠️ <br>
+🛠️ This project utilize the **Feature Pyramid network (FPN) and ResNet50** neural network architecture to detect deepfakes. **FPN** is used for detecting multiple scales that can be crucial for identifying large scale inconsistencies in deepfake images, while **ResNet50** is a deep convolutional neural network excels at identifying subtle spatial anomalies in images.<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -11,20 +11,25 @@
 <img width="12" />
 <img src="https://img.icons8.com/fluent/600/000000/anaconda--v2.png" height="33" alt="tensorflow logo"  />
 
+## Publication
+
+An article on this project being reviewed by International Journal of Machine Learning and Cybernetics at Springer.<br>
+The preprint of this article is available on Research Square. View this article [here]().
+
 
 ## Prerequisites
 
-🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images) <br>
+🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images). <br>
 🚨 Make sure you have a NVIDIA GPU and CUDA installed on your system.
 
 ## Deployment
 
-To run this project first clone this repository in your jupyter notebook using
+To run this project first clone this repository in your jupyter notebook using:
 
 ```bash
   !git clone https://github.com/username/repository.git
 ```
-Change to the cloned repository's directory using
+Change to the cloned repository's directory using:
 
 ```bash
   %cd repository
@@ -35,12 +40,12 @@ Open the jupyter notebook using:
   !jupyter notebook notebook_name.ipynb
 ```
 
-Install all the required packages 
+Install all the required packages:
 ```bash
   !pip install -r requirements.txt
 ```
 
-Finally **Run** all the cells of the jupyter notebook 
+Finally **Run** all the cells of the jupyter notebook.
 
 
 ## Project Outlook
