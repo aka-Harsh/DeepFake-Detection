@@ -13,8 +13,8 @@
 
 ## Publication
 
-An article on this project being reviewed by International Journal of Machine Learning and Cybernetics at Springer.<br>
-The preprint of this article is available on Research Square. View this article [here]().
+The paper on this project being reviewed by ICMLANT 2024 and IEEE ITAIC 2025 conference proceedings and will be updated after the conferences.<br>
+The preprint of this article is available on Zenodo. View the preprint [here](https://doi.org/10.5281/zenodo.13986004).
 
 
 ## Prerequisites
