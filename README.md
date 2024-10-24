@@ -13,8 +13,8 @@
 
 ## Publication
 
-The paper on this project being reviewed by ICMLANT 2024 and IEEE ITAIC 2025 conference proceedings and will be updated after the conferences.<br>
-The preprint of this article is available on Zenodo. View the preprint [here](https://doi.org/10.5281/zenodo.13986004).
+The paper on this project being reviewed by *ICMLANT 2024* and *IEEE ITAIC 2025* conference proceedings and will be updated after the conferences.<br>
+The preprint of this article is available on *Zenodo*. View the preprint [here](https://doi.org/10.5281/zenodo.13986004).
 
 
 ## Prerequisites
