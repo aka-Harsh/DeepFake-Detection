@@ -1,6 +1,5 @@
 # Deepfake Images Detection
-
-🛠️ This project utilize the **Feature Pyramid network (FPN) and ResNet50** neural network architecture to detect deepfakes. **FPN** is used for detecting multiple scales that can be crucial for identifying large scale inconsistencies in deepfake images, while **ResNet50** is a deep convolutional neural network excels at identifying subtle spatial anomalies in images.<br>
+This project utilize the **Feature Pyramid network (FPN) and ResNet50** neural network architecture to detect deepfakes. **FPN** is used for detecting multiple scales that can be crucial for identifying large scale inconsistencies in deepfake images, while **ResNet50** is a deep convolutional neural network excels at identifying subtle spatial anomalies in images.<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -13,14 +12,12 @@
 
 ## Publication
 
-The paper on this project being reviewed by ***ICMLANT 2024*** and ***IEEE ITAIC 2025*** conference proceedings and will be updated after the conferences.<br>
+The paper on this project being reviewed by various conference proceedings and will be updated after the conferences.<br>
 The preprint of this article is available on ***Zenodo***. View the preprint [here](https://doi.org/10.5281/zenodo.13986004).
-
 
 ## Prerequisites
 
-🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images). <br>
-🚨 Make sure you have a NVIDIA GPU and CUDA installed on your system.
+Download the dataset from [Kaggle Dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images).
 
 ## Deployment
 
